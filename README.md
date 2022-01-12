@@ -17,6 +17,7 @@ You can as well read the documented API endpoints with examples in https://docum
 The API is publicly available in the domain https://thc-ui-api.thrivecoin.com
 
 ## A few notes about the assignment
+* Use any desired CSS framework for styling purposes
 * Authentication token has an expiration date
 * Use Redux or something similar for state management
 * Use version control (Git preferably) and commit frequently
